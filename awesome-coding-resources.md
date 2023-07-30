@@ -9,6 +9,7 @@
 - [Architecture of Open Source Applications](https://aosabook.org/en/), QEUED.
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/), STARTED. 
 
-## Vim
+## Tools
 
+- [Changelog podcast - Daniel J Barrett - Efficient Linux at the Command Line](https://changelog.com/podcast/547)
 - [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
