@@ -13,3 +13,4 @@
 
 - [Changelog podcast - Daniel J Barrett - Efficient Linux at the Command Line](https://changelog.com/podcast/547)
 - [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
+- [regex cheatsheet](https://www.rexegg.com/regex-quickstart.html)
